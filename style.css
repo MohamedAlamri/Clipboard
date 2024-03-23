@@ -53,7 +53,7 @@ button {
 .description {
   width: 65%;
   color: #999;
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: 1.4;
   word-spacing: 1px;
 }
@@ -61,6 +61,7 @@ button {
   .description {
     margin: 0 auto;
     width: 85%;
+    font-size: 1.25rem;
   }
 }
 body {
@@ -69,7 +70,7 @@ body {
 @media (max-width: 567px) {
   body,
   html {
-    font-size: 18px;
+    font-size: 17px;
   }
 }
 body img {
