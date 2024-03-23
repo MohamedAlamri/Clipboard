@@ -61,7 +61,7 @@ button {
   .description {
     margin: 0 auto;
     width: 85%;
-    font-size: 1.25rem;
+    font-size: 1.25rem !important;
   }
 }
 body {
